@@ -19,7 +19,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   // HEO_HERO_TITLE_3: 'TANGLY1024.COM',
   // HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: '随便写写',
+  HEO_HERO_TITLE_5: '星河漫游思想家',
   HEO_HERO_TITLE_LINK: 'https://deepthinker.top',
 
   // 英雄区显示三个置顶分类
@@ -36,7 +36,8 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
+    // '🤝 专修交互与设计',
+    '🤝 星河漫游思想家',
     '🏃 脚踏实地行动派',
     '🏠 智能家居小能手',
     '🤖️ 数码科技爱好者',
